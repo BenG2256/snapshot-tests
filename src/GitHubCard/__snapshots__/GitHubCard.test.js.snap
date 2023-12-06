@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="CodePen.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        CodePen
+      </div>
+      <p
+        className="card-text"
+      >
+        I am an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets
+      </p>
+    </div>
+  </div>
+</div>
+`;
